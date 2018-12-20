@@ -5,3 +5,6 @@ Used to convert a XML file into a lables txt for Faster RCN especially when you 
 
 ### downloadfiles.py
 Downloads files from http protocol 
+
+### sendmail.py
+Send email from anywhere provided there is connection to internet using python
