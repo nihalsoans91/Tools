@@ -1,4 +1,4 @@
-# Tools that you dont need to code again and again
+# Tools that you dont need to re-code
 Just Random snipets of code for storage sake
 
 ### Shell
