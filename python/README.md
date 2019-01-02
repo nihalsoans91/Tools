@@ -6,5 +6,11 @@ Used to convert a XML file into a lables txt for Faster RCN especially when you 
 ### downloadfiles.py
 Downloads files from http protocol 
 
-### sendmail.py
+### mailer.py
 Send email from anywhere provided there is connection to internet using python
+#### Usage:
+```python
+import mailer
+m=mailer("username","password","toaddress")
+```
+Username has to be full email address example: name@gmail.com
